@@ -107,8 +107,10 @@ graph TD
 
 ## Assets
 
-*   **Workflow Diagram**: ![Workflow Diagram](assets/architecture_diagram.png)
-*   **Cover Page Banner**: ![Cover Page Banner](assets/cover_page_banner.png)
+*   **Workflow Diagram**: ![Workflow Diagram](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/83b7871f-2f3b-4dcb-b31e-0b0642f9b5c7" />
+)
+*   **Cover Page Banner**: ![Cover Page Banner](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e6c4b5c-a6a2-46b4-a3b3-1d92eb0947b3" />
+)
 
 ---
 
