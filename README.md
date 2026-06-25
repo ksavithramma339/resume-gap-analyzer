@@ -107,7 +107,7 @@ graph TD
 
 ## Assets
 
-*   **Workflow Diagram**: ![Workflow Diagram]((assets/architecture_diagram.png)
+*   **Workflow Diagram**: ![Workflow Diagram](assets/architecture_diagram.png)
 )
 *   **Cover Page Banner**: ![Cover Page Banner](assets/cover_page_banner.png)
 
